@@ -3,7 +3,7 @@
 #### Technical Skills: Excel, Python, SQL, AWS, Power BI, Tableau, Machine Learning
 
 ## Education
-- M.S., Computer Applications(MCA) | IGNOU(_Jan 2024 - Currently_Pursuing_)				       		
+- M.S., Computer Applications(MCA) | IGNOU (_Jan 2024-Currently Pursuing_)				       		
 
 ## Work Experience
 **Data Analyst Intern @ Polstrat Pvt.Ltd (_Dec 2023 - Present_)**
